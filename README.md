@@ -12,4 +12,6 @@ python mul-behavior-decision-making.py
 ``` 
 The preprocessing and visualization code required during the experiment is located in the `script` folder.
 
-All the modaling code is located in the 
+All the modeling code is located in the `modeling` folder.
+
+The experimental materials for video and audio are located in the `video_stim` and `audio_stim` folders.
