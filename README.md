@@ -10,3 +10,5 @@ To run our experimental code, `cd NeuroScienceProject` directory and execute
 ```
 python mul-behavior-decision-making.py
 ``` 
+The preprocessing and visualization code required during the experiment is located in the `script` folder.
+
