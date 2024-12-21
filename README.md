@@ -12,3 +12,4 @@ python mul-behavior-decision-making.py
 ``` 
 The preprocessing and visualization code required during the experiment is located in the `script` folder.
 
+All the modaling code is located in the 
