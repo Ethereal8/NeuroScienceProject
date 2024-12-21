@@ -15,3 +15,7 @@ The preprocessing and visualization code required during the experiment is locat
 All the modeling code is located in the `modeling` folder.
 
 The experimental materials for video and audio are located in the `video_stim` and `audio_stim` folders.
+
+Run `python modeling/multalternative_ddm.py` to simulate the three-choice modeling process for "dog," "fox," and "None."
+
+Run `python modeling/multfactor_ddm.py` to simulate the modeling process for Multi-Modal experiment.
